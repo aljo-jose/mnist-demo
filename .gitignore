@@ -1,0 +1,7 @@
+*.pyc
+*.gz
+*.pt
+.DS_Store
+.vscode/settings.json
+input/
+logs/
